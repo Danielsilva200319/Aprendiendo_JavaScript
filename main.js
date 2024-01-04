@@ -89,7 +89,7 @@ else{
     alert("Pedro; No te alcanza");
 } */
 
-let pc1 = {
+/* let pc1 = {
     nombre: "PC",
     procesador: "Intel Core I7",
     ram: "16GB",
@@ -105,4 +105,5 @@ frase = `el nombre de mi pc es: <b>${nombre}</b> <br>
          el procesador es: <b>${procesador}</b> <br>
          la memoria ram tiene: <b>${ram}</b> <br>
          el espacio en disco es de <b>${espacio}</b>`;
-document.write(frase);
+document.write(frase); */
+
